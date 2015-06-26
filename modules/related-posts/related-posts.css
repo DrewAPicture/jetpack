@@ -9,6 +9,7 @@
 	padding-top: 1em;
 	margin: 1em 0;
 	position: relative;
+	clear: both;
 }
 
 .jp-relatedposts:after {
